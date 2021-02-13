@@ -33,6 +33,7 @@ Clone #17 - Vercel (Homepage)
 3. Right click `index.html` > `Open with Live Server`
 4. Access the **generated address** in your browser 🚀
 
+ 🚀🚀https://bruna15lima.github.io/NextJSHomepage/  💜
 
 Esse foi o meu resultado, 💜 Um super thanks 👏 para o professor Guilherme Rodz! Abraço!:)
 👨‍💻 Autor Bruna Calheiros🚀
