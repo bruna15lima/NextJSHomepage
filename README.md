@@ -1,5 +1,7 @@
 <h1 align="center">
-UI Clone #17 - Vercel (Homepage)
+Resultado do UI 
+Clone #17 - Vercel (Homepage)
+
 </h1>
 
 <p align="center"><a href="https://vercel.com">Vercel Homepage</a> UI clone for study purposes.</p>
@@ -30,3 +32,9 @@ UI Clone #17 - Vercel (Homepage)
 2. Install `Live Server` and `Live Sass Compiler` extension
 3. Right click `index.html` > `Open with Live Server`
 4. Access the **generated address** in your browser 🚀
+
+
+Esse foi o meu resultado, 💜 Um super thanks 👏 para o professor Guilherme Rodz! Abraço!:)
+👨‍💻 Autor Bruna Calheiros🚀
+
+🚀Feito com muito ❤️ por bruna15lima 👋🏽 Entre em contato!
